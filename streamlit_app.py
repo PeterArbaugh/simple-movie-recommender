@@ -109,6 +109,6 @@ st.write(results)
 
 st.write(
     """
-    [View Source Code](https://github.com)
+    [View Source Code](https://github.com/PeterArbaugh/simple-movie-recommender)
     """
 )
