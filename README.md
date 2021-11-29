@@ -1,4 +1,4 @@
-# Simple Move Recommender
+# Simple Movie Recommender
 
 I created this simple recommendation system using the MovieLens 100k dataset. All recommendations are based on item similarity.
 
